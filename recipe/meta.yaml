@@ -46,6 +46,10 @@ about:
   summary: Python SDK for Bloomberg BLPAPI (<=3.9)
 
 extra:
+  anaconda-services:
+    ref:  https://anaconda.zendesk.com/agent/tickets/38602
+    reason: "Requested by reinsurance group"
   recipe-maintainers:
+    - anaobi
     - reggied
     - matthewgilbert
